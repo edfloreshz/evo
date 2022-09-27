@@ -1,5 +1,5 @@
 //! # Evo
-//! Evo is a graphical environment variable editor for Linux (librery).
+//! Evo is a graphical environment variable editor for Linux (library).
 
 /// Fetch current environment variables
 pub fn fetch_vars() {
